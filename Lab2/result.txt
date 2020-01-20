@@ -1,0 +1,125 @@
+0	UK	London	Taobao	2014-01-16 00:14:11.020083	303317	
+1	Ukrain	Kiev	Aliexpress	2014-03-14 22:43:00.760289	660388	
+2	UK	Liverpool	Amazon	2014-12-18 20:42:58.659333	388626	
+3	UK	Liverpool	Taobao	2014-03-10 03:22:07.768365	78552	
+4	Ukrain	Varsaw	Aliexpress	2014-11-14 15:20:50.406082	589713	
+5	Russia	Kogalym	eBay	2014-06-07 21:55:45.733748	926733	
+6	UK	Manchester	eBay	2014-02-12 00:01:44.785932	546977	
+7	Ukrain	Odessa	Amazon	2014-07-13 00:02:31.883128	362603	
+8	German	Frankfurt	Amazon	2014-10-12 13:12:21.445320	920917	
+9	German	Berlin	Amazon	2014-12-26 01:07:39.939632	562729	
+10	German	Dortmund 	Aliexpress	2014-05-03 11:29:40.521980	230927	
+11	German	Frankfurt	Aliexpress	2014-07-10 12:05:40.699241	295777	
+12	German	Berlin	Amazon	2014-04-07 17:54:11.789308	523276	
+13	Russia	Kogalym	Taobao	2014-12-19 11:42:28.227844	221836	
+14	German	Frankfurt	eBay	2014-01-08 16:50:06.465268	444816	
+15	UK	Manchester	eBay	2014-02-24 10:49:30.982923	952681	
+16	German	Frankfurt	Amazon	2014-06-04 12:29:59.835116	484427	
+17	Russia	Kogalym	eBay	2014-08-15 14:32:35.026085	812775	
+18	UK	Glasgow	Taobao	2014-05-21 20:25:48.723643	131694	
+19	UK	London	Amazon	2014-04-01 03:09:57.732586	798244	
+20	UK	Glasgow	Taobao	2014-06-06 01:05:41.128484	752001	
+21	Russia	St. Petersburg	Taobao	2014-01-20 02:37:39.026252	794622	
+22	Russia	Moscow	Amazon	2014-03-10 09:05:21.178658	343475	
+23	UK	Manchester	Taobao	2014-12-29 14:01:17.016707	901663	
+24	Russia	St. Petersburg	Aliexpress	2014-03-08 21:42:34.365140	997461	
+25	Ukrain	Kiev	eBay	2014-09-29 21:27:13.369707	320814	
+26	German	Frankfurt	eBay	2014-04-07 18:55:34.597716	231986	
+27	Russia	Moscow	Taobao	2014-07-04 11:21:41.901862	917325	
+28	Ukrain	Varsaw	Amazon	2014-09-08 20:48:00.801810	622137	
+29	German	Berlin	Aliexpress	2014-09-13 22:30:38.325351	838586	
+30	German	Frankfurt	Taobao	2014-11-12 06:33:19.745378	71968	
+31	German	Berlin	Aliexpress	2014-08-03 23:39:36.778151	643331	
+32	UK	Manchester	Taobao	2014-08-25 18:55:46.363347	239375	
+33	UK	Glasgow	Taobao	2014-08-05 22:55:48.284601	193439	
+34	UK	London	Amazon	2014-06-01 03:06:26.656821	534269	
+35	German	Dortmund 	Aliexpress	2014-08-19 18:33:01.637515	552428	
+36	UK	Liverpool	Taobao	2014-01-12 20:12:45.365393	412855	
+37	UK	Glasgow	Aliexpress	2014-02-26 08:51:20.858304	650082	
+38	Russia	Kogalym	Taobao	2014-04-17 11:29:28.230380	354615	
+39	UK	London	Amazon	2014-08-17 04:27:18.511580	959568	
+40	Ukrain	Kiev	eBay	2014-06-17 08:42:04.433451	821835	
+41	Russia	Kogalym	eBay	2014-03-30 23:03:11.420385	394361	
+42	German	Frankfurt	Amazon	2014-07-07 19:12:12.474015	707530	
+43	German	Munich 	Aliexpress	2014-03-10 21:15:58.247678	794256	
+44	Russia	Moscow	Taobao	2014-05-13 19:25:20.137622	361804	
+45	Ukrain	Minsk	Amazon	2014-07-04 10:11:29.521261	789037	
+46	Ukrain	Kiev	Amazon	2014-10-01 21:07:25.390467	915880	
+47	Russia	St. Petersburg	Taobao	2014-01-17 04:53:17.212651	105194	
+48	German	Munich 	eBay	2014-04-15 00:53:39.900499	793647	
+49	Russia	Kogalym	Amazon	2014-07-06 04:27:41.391887	919206	
+50	German	Dortmund 	eBay	2014-11-01 07:02:20.608200	214440	
+51	Ukrain	Kiev	Taobao	2014-03-24 13:24:28.962019	79778	
+52	Ukrain	Kiev	Taobao	2014-12-10 12:49:37.448125	376789	
+53	Ukrain	Odessa	Taobao	2014-01-05 02:26:32.157653	228957	
+54	Ukrain	Kiev	Amazon	2014-08-14 14:43:17.994306	965119	
+55	Ukrain	Kiev	eBay	2014-03-18 11:43:52.290868	90243	
+56	Russia	St. Petersburg	Amazon	2014-11-07 21:55:48.859532	554854	
+57	German	Munich 	Aliexpress	2014-08-29 08:09:26.699787	141623	
+58	Russia	St. Petersburg	Taobao	2014-07-16 18:56:00.152806	136572	
+59	Ukrain	Odessa	Amazon	2014-08-23 16:44:39.568560	882283	
+60	UK	Glasgow	Amazon	2014-04-14 11:37:12.625039	711221	
+61	Ukrain	Varsaw	eBay	2014-06-12 16:10:08.861608	577622	
+62	Ukrain	Odessa	Amazon	2014-12-27 10:05:56.355933	215826	
+63	UK	Glasgow	eBay	2014-10-04 19:44:46.452108	803472	
+64	Russia	Kogalym	Amazon	2014-09-07 02:08:24.919056	974525	
+65	UK	London	Aliexpress	2014-11-14 01:44:56.610804	212743	
+66	German	Dortmund 	Taobao	2014-12-07 07:14:03.953336	780445	
+67	Russia	Moscow	Amazon	2014-08-08 22:34:20.346181	996249	
+68	UK	Glasgow	eBay	2014-08-27 02:49:15.810390	319204	
+69	UK	Liverpool	Aliexpress	2014-07-14 17:46:07.290295	849090	
+70	UK	Manchester	Amazon	2014-08-11 06:00:46.281949	637265	
+71	Ukrain	Odessa	Aliexpress	2014-05-01 22:34:01.247634	468468	
+72	UK	Manchester	Taobao	2014-03-16 19:34:17.830753	419009	
+73	German	Frankfurt	Amazon	2014-09-23 04:55:21.140611	893840	
+74	Russia	Kogalym	Aliexpress	2014-11-06 13:00:17.876790	605671	
+75	Russia	Belgorod	Taobao	2014-09-23 13:05:27.502494	771642	
+76	Russia	St. Petersburg	Aliexpress	2014-07-08 07:06:30.318150	258543	
+77	UK	London	Amazon	2014-09-18 06:33:52.058547	808409	
+78	Ukrain	Varsaw	eBay	2014-11-29 21:30:33.209327	429330	
+79	German	Dortmund 	Amazon	2014-06-15 08:56:00.957894	43558	
+80	UK	London	Aliexpress	2014-09-22 03:37:11.438635	161198	
+81	UK	London	Taobao	2014-08-28 02:06:06.404209	899992	
+82	Ukrain	Varsaw	Aliexpress	2014-01-10 18:25:03.399087	981434	
+83	UK	Liverpool	Aliexpress	2014-10-08 18:43:31.156834	999730	
+84	German	Berlin	Amazon	2014-10-17 11:25:09.630787	759510	
+85	Russia	Moscow	Amazon	2014-06-14 14:31:02.690050	511414	
+86	German	Berlin	Aliexpress	2014-06-13 02:43:52.803643	756638	
+87	Ukrain	Kiev	Aliexpress	2014-08-12 02:47:09.257448	505126	
+88	Ukrain	Kiev	Amazon	2014-06-02 12:13:42.791999	988910	
+89	Russia	Belgorod	eBay	2014-05-31 15:04:42.025922	792060	
+90	Ukrain	Odessa	Amazon	2014-10-07 10:29:19.567583	127534	
+91	German	Frankfurt	Aliexpress	2014-06-29 03:42:15.243748	277053	
+92	UK	London	Taobao	2014-09-18 21:54:56.097056	530328	
+93	German	Dortmund 	Taobao	2014-12-11 22:33:56.221841	695642	
+94	German	Berlin	Amazon	2014-01-24 05:01:11.825972	218732	
+95	Russia	St. Petersburg	eBay	2014-11-12 22:15:58.147393	734762	
+96	Ukrain	Varsaw	Aliexpress	2014-11-12 04:27:02.253638	621927	
+97	Ukrain	Minsk	Taobao	2014-08-26 21:48:24.565869	843138	
+98	German	Dortmund 	Aliexpress	2014-07-03 12:15:39.681100	423672	
+99	Russia	Moscow	Aliexpress	2014-03-04 22:48:05.683764	729744	
+Задание 1
+SELECT COUNT(*) FROM Sales
+Количество записей:10000
+Задание 2
+Select Country, count(Shop) from Sales group by Country
+Количество магазинов в стране:
+German	2445	
+Russia	2485	
+UK	2562	
+Ukrain	2508	
+Задание 3
+SELECT Shop, SUM(Money) FROM Sales GROUP BY Shop
+Сумма продаж по магазинам:
+Aliexpress	1252477278	
+Amazon	1321686683	
+Taobao	1285756671	
+eBay	1265737811	
+Задание 4
+SELECT Shop, SUM(Money) FROM Sales WHERE (Country = ? AND 
+Date BETWEEN "2014-06-01" AND "2014-09-01") GROUP BY Shop
+В стране UK выручка за лето составила
+Aliexpress	72818607	
+Amazon	88539305	
+Taobao	88803215	
+eBay	76540939	
