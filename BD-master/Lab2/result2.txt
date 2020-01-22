@@ -1,0 +1,71 @@
+Задание 1
+выбрать уникальные записи shop_id, 
+city, country - запросом (уникальные, это значит не повторяющиеся)
+SELECT DISTINCT *  FROM Shops
+Задание 4
+ Показать сумму продаж в определенной стране по магазинам за лето.
+SELECT Country, Shop, SUM(Money) 
+FROM (SELECT * FROM Shops INNER JOIN (SELECT * FROM Sales) on Shop_id=id) 
+WHERE (Country=? AND Date BETWEEN "2014-06-01" AND "2014-08-31")
+GROUP BY Shop
+В стране UK выручка за лето составила
+UK	Aliexpress	72818607	
+UK	Amazon	88160215	
+UK	Taobao	87983813	
+UK	eBay	76540939	
+
+Задание 5
+Средняя сумма продаж по городам:
+SELECT Country,City, SUM(Money)
+FROM (SELECT Country,City, Money from Shops INNER JOIN (SELECT * from Sales) on Shop_id=id)
+GROUP BY City
+ORDER BY Country
+
+
+German	Berlin	321011639	
+German	Dortmund 	323708620	
+German	Frankfurt	308830014	
+German	Munich 	277751718	
+Russia	Belgorod	319337750	
+Russia	Kogalym	316043857	
+Russia	Moscow	294442010	
+Russia	St. Petersburg	357495760	
+UK	Glasgow	316705515	
+UK	Liverpool	340035303	
+UK	London	332958551	
+UK	Manchester	326562720	
+Ukrain	Kiev	334269297	
+Ukrain	Minsk	318501525	
+Ukrain	Odessa	327919398	
+Ukrain	Varsaw	310084766	
+
+Задание 6
+Средняя сумма продаж по магазинам:
+SELECT Shop,AVG(Money) FROM Sales group by shop
+
+Aliexpress	505438.7723970944	
+Amazon	519735.22729060164	
+Taobao	507402.00118389894	
+eBay	517684.1762781186	
+
+Задание 6
+Средняя сумма продаж по городам:
+SELECT Country,AVG(Money) 
+FROM (SELECT Country, Money from Shops INNER JOIN Sales on Shop_id=id) 
+group by Country
+
+German	503599.9963190184	
+Russia	518035.9665995976	
+UK	513763.5007806401	
+Ukrain	514663.0725677831	
+
+Задание 6
+Средняя сумма продаж по странам:
+SELECT Country,AVG(Money) 
+FROM (SELECT Country,Money from Shops INNER JOIN Sales on Shop_id=id) 
+group by Country
+
+German	503599.9963190184	
+Russia	518035.9665995976	
+UK	513763.5007806401	
+Ukrain	514663.0725677831	
